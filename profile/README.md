@@ -1,4 +1,7 @@
 # AI기반 차세대 갤러리 앱 Pickle
+![image](https://github.com/user-attachments/assets/0a4726fb-82dd-4bea-bbd9-e130e5d878be)
+
+
 
 연합동아리 Tave 13기 팀 23456 연합 프로젝트
 
