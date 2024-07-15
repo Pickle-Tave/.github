@@ -4,7 +4,7 @@
 >연합동아리 Tave 13기 팀 23456 연합 프로젝트(24.05.11~24.07.21)
 <p align='center'><b> AI 기반 차세대 갤러리 앱 Pickle을 소개합니다!</b></p>
 <br><br><p align='center'><a href='https://fragrant-hospital-b08.notion.site/MAIN-PAGE-ac1ac9a4178d495a8e56e3b8cf4e65ac' target="_blank"><img alt='Notion' src='https://img.shields.io/badge/Notion-100000?style=for-the-badge&logo=Notion&logoColor=FFFFFF&labelColor=4C4A4A&color=8587D0'/></a>        
-<!-- <a href='https://youtu.be/M3VW_jy8OPc?si=UmsTFGfwoT_ey7r_' target="_blank"> --><img alt='Youtube' src='https://img.shields.io/badge/Youtube-100000?style=for-the-badge&logo=Youtube&logoColor=FFFFFF&labelColor=5F5D5D&color=FF0000'/></a>s
+<!-- <a href='https://youtu.be/M3VW_jy8OPc?si=UmsTFGfwoT_ey7r_' target="_blank"> --><img alt='Youtube' src='https://img.shields.io/badge/Youtube-100000?style=for-the-badge&logo=Youtube&logoColor=FFFFFF&labelColor=5F5D5D&color=FF0000'/></a>
 
 
 
