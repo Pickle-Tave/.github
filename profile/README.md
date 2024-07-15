@@ -1,11 +1,23 @@
 # AI기반 차세대 갤러리 앱 Pickle
 ![image](https://github.com/user-attachments/assets/0a4726fb-82dd-4bea-bbd9-e130e5d878be)
 
->연합동아리 Tave 13기 팀 23456 연합 프로젝트(24.05.11~24.07.21)
-<p align='center'><b> AI 기반 차세대 갤러리 앱 Pickle을 소개합니다!</b></p>
+>연합동아리 Tave 13기 팀 23456 연합 프로젝트(24.05.11~24.07.21)<br>
+<hr>
+
+🤦‍♀️갤러리를 제때 정리하지 않았더니 벌써 <U>스마트폰 용량</U>이 가득찼어... 하지만 정리는 너무 <u>귀찮은걸</u>?<br>
+🙋‍♂️<u>비슷한 사진</u>이 너무 많아! 어차피 진짜 <u>잘 나온 사진</u>만 사용하는데... <u>불필요한 사진</u>이 많아서 다른 사진 찾기도 힘든 것 같아.<br>
+🤷‍♂️<u>흔들린 사진</u>이나 <u>눈 감은 사진</u>을 일일이 삭제해야 하다니... <u>손이 많이 간다</u> ㅠㅠ<br>
+👨‍👩‍👧‍👦<u>공유앨범</u>을 사용하고 싶은데, <u>아이폰과 안드로이드</u> 상관없이 사용할 수 있는 앱이 없을까?<br>
+
+
+<br>
+
+<p align='center'><b>누구나 한 번쯤 경험해본 불편함, 익숙하시죠?</b></p>
+<p align='center'><b>AI 기반 차세대 갤러리 앱, Pickle이 고민을 한번에 해결해 드립니다!</b></p>
+<p align='center'><b>당신의 사진을 Pick해 보세요!</b></p>
 <br><p align='center'><a href='https://fragrant-hospital-b08.notion.site/MAIN-PAGE-ac1ac9a4178d495a8e56e3b8cf4e65ac' target="_blank"><img alt='Notion' src='https://img.shields.io/badge/Notion-100000?style=for-the-badge&logo=Notion&logoColor=FFFFFF&labelColor=4C4A4A&color=8587D0'/></a>        
 <!-- <a href='https://youtu.be/M3VW_jy8OPc?si=UmsTFGfwoT_ey7r_' target="_blank"> --><img alt='Youtube' src='https://img.shields.io/badge/Youtube-100000?style=for-the-badge&logo=Youtube&logoColor=FFFFFF&labelColor=5F5D5D&color=FF0000'/></a>
-
+<hr>
 <br/>
 
 ## ⭐️Main Function
