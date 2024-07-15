@@ -4,13 +4,12 @@
 >연합동아리 Tave 13기 팀 23456 연합 프로젝트(24.05.11~24.07.21)
 <p align='center'><b> AI 기반 차세대 갤러리 앱 Pickle을 소개합니다!</b></p>
 <br><br><p align='center'><a href='https://fragrant-hospital-b08.notion.site/MAIN-PAGE-ac1ac9a4178d495a8e56e3b8cf4e65ac' target="_blank"><img alt='Notion' src='https://img.shields.io/badge/Notion-100000?style=for-the-badge&logo=Notion&logoColor=FFFFFF&labelColor=4C4A4A&color=8587D0'/></a>        
-<!-- <a href='https://youtu.be/M3VW_jy8OPc?si=UmsTFGfwoT_ey7r_' target="_blank"> --><img alt='Youtube' src='https://img.shields.io/badge/Youtube-100000?style=for-the-badge&logo=Youtube&logoColor=FFFFFF&labelColor=5F5D5D&color=FF0000'/></a>
-
+<!-- <a href='https://youtu.be/M3VW_jy8OPc?si=UmsTFGfwoT_ey7r_' target="_blank"> --><img alt='Youtube' src='https://img.shields.io/badge/Youtube-100000?style=for-the-badge&logo=Youtube&logoColor=FFFFFF&labelColor=5F5D5D&color=FF0000'/></a>s
 
 
 
 ## ⭐️Main Function
-![alt text](image-2.png)
+![alt text](image.png)
 <!-- 📷 유사한 사진들을 묶어드려요. 가장 잘 나온 사진을 선택하세요.<br>
 😌 흔들린 사진이나 눈 감은 사진은 자동으로 삭제해줘요.<br>
 #️⃣ 정리한 사진들을 그룹화해서 해시태그를 붙일 수 있어요.<br>
@@ -20,17 +19,14 @@
 ## 🛠Tech Stack
 
 ### [FrontEnd](https://github.com/Pickle-Tave/Pickle-FE)
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black"> 
-<img src="https://img.shields.io/badge/React Native-61DAFB?logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black"><img src="https://img.shields.io/badge/React Native-61DAFB?logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Redux-bl?logo=redux">
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=Android Studio&logoColor=white"/>
 
 
 
 ### [BackEnd](https://github.com/Pickle-Tave/Pickle-BE)
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-social&logo=Spring Boot&logoColor=white">
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-social&logo=Gradle&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-social&logo=Databricks&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-social&logo=Spring Boot&logoColor=white"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-social&logo=Gradle&logoColor=white"><img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-social&logo=Databricks&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-social&logo=springsecurity&logoColor=white">
 <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-social&logo=JSON Web Tokens&logoColor=white">
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-sociak&logo=junit5&logoColor=white">
@@ -66,13 +62,12 @@ Code coverage
 
 
 ### [DeepLearning](https://github.com/Pickle-Tave/Pickle-DL)
-<img src="https://img.shields.io/badge/PyTorch-white?logo=PyTorch"/>
-<img src="https://img.shields.io/badge/FastAPI-F05032?&logo=fastapi"/> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-white?logo=PyTorch"/><img src="https://img.shields.io/badge/FastAPI-F05032?&logo=fastapi"/> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/yolov8-blue.svg?logo=data:image/">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/> 
 
 ### Others
-<img src="https://img.shields.io/badge/ Swagger-6DB33F?style=for-the-social&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/ Swagger-6DB33F?style=for-the-social&logo=swagger&logoColor=white"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
 
 
 ## Members
