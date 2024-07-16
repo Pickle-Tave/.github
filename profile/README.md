@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/0a4726fb-82dd-4bea-bbd9-e130e5d878be)
 
 
-### 🤔Project Intention
+## 🤔Project Intention
 
 > #### 마음에 드는 사진만 알아서 정리해주면 편하지 않을까?
 
