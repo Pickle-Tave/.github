@@ -24,7 +24,7 @@
 <p align='center'><b>AI 기반 차세대 갤러리 앱, Pickle이 고민을 한번에 해결해 드립니다!</b></p>
 <p align='center'><b>당신의 사진을 Pick해 보세요!</b></p>
 <br><p align='center'><a href='https://fragrant-hospital-b08.notion.site/MAIN-PAGE-ac1ac9a4178d495a8e56e3b8cf4e65ac' target="_blank"><img alt='Notion' src='https://img.shields.io/badge/Notion-100000?style=for-the-badge&logo=Notion&logoColor=FFFFFF&labelColor=4C4A4A&color=8587D0'/></a>        
-<!-- <a href='https://youtu.be/M3VW_jy8OPc?si=UmsTFGfwoT_ey7r_' target="_blank"> --><img alt='Youtube' src='https://img.shields.io/badge/Youtube-100000?style=for-the-badge&logo=Youtube&logoColor=FFFFFF&labelColor=5F5D5D&color=FF0000'/></a>
+<a href='https://youtu.be/M3VW_jy8OPc?si=UmsTFGfwoT_ey7r_' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/Youtube-100000?style=for-the-badge&logo=Youtube&logoColor=FFFFFF&labelColor=5F5D5D&color=FF0000'/></a>
 
 <br/>
 
