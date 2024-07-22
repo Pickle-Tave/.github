@@ -1,8 +1,7 @@
 # AI기반 차세대 갤러리 앱 Pickle
->연합동아리 Tave 13기 팀 23456 연합 프로젝트(24.05.11~24.07.21)<br>
+>연합동아리 Tave 13기 팀 23456 연합 프로젝트 <대상🏆> 수상 (24.05.11~24.07.21)<br>
 
-
-![image](https://github.com/user-attachments/assets/0a4726fb-82dd-4bea-bbd9-e130e5d878be)
+![Frame](https://github.com/user-attachments/assets/5ba6ef3a-a146-48a6-8fa8-60521cf46aa1)
 
 
 ## 🤔Project Intention
